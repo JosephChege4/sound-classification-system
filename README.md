@@ -8,11 +8,11 @@ Our project is an audio-based recognition system for activity. It's designed to 
 
 # Build Badges
 
-![Lint-free](https://github.com/JosephChege4/sound-classification-system/actions/workflows/lint.yml/badge.svg)
+[![Lint-Free](https://github.com/JosephChege4/sound-classification-system/actions/workflows/lint.yml/badge.svg)](https://github.com/JosephChege4/sound-classification-system/actions/workflows/lint.yml)
 
-![ML Client Workflow Status](https://github.com/JosephChege4/sound-classification-system/actions/workflows/ml_client.yml/badge.svg?branch=main)
+[![ML Client Workflow Status](https://github.com/JosephChege4/sound-classification-system/actions/workflows/ml_client.yml/badge.svg)](https://github.com/JosephChege4/sound-classification-system/actions/workflows/ml_client.yml)
 
-![Web App Workflow Status](https://github.com/JosephChege4/sound-classification-system/actions/workflows/web_app.yml/badge.svg?branch=main)
+[![ML Client Workflow Status](https://github.com/JosephChege4/sound-classification-system/actions/workflows/web_app.yml/badge.svg)](https://github.com/JosephChege4/sound-classification-system/actions/workflows/web_app.yml)
 
 ## Configuration Instructions
 
