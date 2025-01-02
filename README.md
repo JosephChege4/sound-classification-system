@@ -8,7 +8,11 @@ Our project is an audio-based recognition system for activity. It's designed to 
 
 # Build Badges
 
-(NEED TO UPDATE)
+![Lint-free](https://github.com/JosephChege4/sound-classification-system/actions/workflows/lint.yml/badge.svg)
+
+![ML Client Workflow Status](https://github.com/JosephChege4/sound-classification-system/actions/workflows/ml_client.yml/badge.svg?branch=main)
+
+![Web App Workflow Status](https://github.com/JosephChege4/sound-classification-system/actions/workflows/web_app.yml/badge.svg?branch=main)
 
 ## Configuration Instructions
 
@@ -23,7 +27,7 @@ After installing Docker and restarting computer, make sure Docker Desktop is run
 Then clone the GitHub respository onto your local machine with:
 
 ```
->>> git clone https://github.com/software-students-fall2024/4-containers-super-awesome-team-name
+>>> git clone https://github.com/JosephChege4/sound-classification-system
 ```
 
 Open terminal in local cloned repository (path/to/4-containers-super-awesome-team-name) and run the following command:
