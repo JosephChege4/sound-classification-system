@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask = "*"
+flask_cors = "*"
+pydub = "*"
+pylint = "*"
+black = "*"
+tomli = "*"
+typing-extensions = "*"
+librosa = "*"
+numpy = "*"
+sounddevice = "*"
+scikit-learn = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
